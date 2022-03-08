@@ -3,5 +3,5 @@
    <h3 align="center">¡Hey 👋! Soy Tomas conocido como TomiCat 🐈👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Jr Full Stack</strong> con 10 años experiencia.<br />¡Revisa mis proyectos 👇!<br /> Pronto subire mas! 👀</p>
+<p align="center">Soy <strong>Desarrollador Jr Full Stack</strong> con 2 años experiencia.<br />¡Revisa mis proyectos 👇!<br /> Pronto subire mas! 👀</p>
 
