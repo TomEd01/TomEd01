@@ -3,4 +3,4 @@
    <h3 align="center">¡Hola 👋! Soy Tomas conocido como TomiCat 🐈👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Proximo Desarrollador Full Stack</strong> Pronto subire mas 👀!</br></p>
+<p align="center">Soy <strong>El Proximo Desarrollador Full Stack</strong> Pronto subire mas 👀!</br></p>
