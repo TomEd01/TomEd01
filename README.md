@@ -2,7 +2,7 @@
 <h3 align="center">Un simple estudiante mexicano que quiere ser Full Stack developer.</h3>
 <p align="center">
     <a href="https://github.com/TomEd01/">
-        <img title="🔥 Get streak stats for your profile at git.io/TomEd01" alt="TomiCat" src="https://github-readme-streak-stats.herokuapp.com/?user=TomEd01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Mi estadistica" alt="TomiCat" src="https://github-readme-streak-stats.herokuapp.com/?user=TomEd01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
