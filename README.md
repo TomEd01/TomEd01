@@ -34,6 +34,7 @@
     <a href="https://github.com/TomEd01/"><img alt="Actividades de TomiCat" src="https://activity-graph.herokuapp.com/graph?username=TomEd01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/><br/>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=TomEd01&color=2685BF)
 <a href="https://www.youtube.com/channel/UCY_dvGfyBuLCvU_GHAYyOWQ">
   <img align="right" alt="TomiCat Wbsite | Youtube" width="21px" src="https://www.youtube.com/s/desktop/38f838ea/img/favicon_32x32.png" />
 </a>
