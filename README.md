@@ -1,20 +1,20 @@
-<h1 align="center">¡Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">! Soy Tomas conocido como TomiCat 🐈💻</h1>
-<h3 align="center">Un simple estudiante mexicano que quiere ser Full Stack developer.</h3>
+<h1 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">! I'm Tomas known as TomiCat 🐈💻</h1>
+<h3 align="center">A simple Mexican student who wants to be a Full Stack developer.</h3>
 <p align="center">
     <a href="https://github.com/TomEd01/">
         <img title="🔥 Mi estadistica" alt="TomiCat" src="https://github-readme-streak-stats.herokuapp.com/?user=TomEd01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
- ## 🙇‍♂️Algo de mi
+ ## 🙇‍♂️About me
  
-- 💼 Mi pagina web que pronto tendra su actualización [TomWeb](https://tomi-black.github.io/Tomicat-web/)
-- 📈 Siempre intentando elevar mi productividad
-- ❤️ Amaria trabajar como frontend developer
-- 💬 Si desean como soy en las redes pueden ir a mi sensual facebook [TomiCat](https://www.facebook.com/Gatitok/)
+- 💼 My website that will soon have its update [TomWeb](https://tomi-black.github.io/Tomicat-web/)
+- 📈 Always trying to increase my productivity
+- ❤️ I would love to work as a front end developer
+- 💬 If you want how I am on the networks you can go to my sensual facebook [TomiCat](https://www.facebook.com/Gatitok/)
 <br>
 
- ## 💪😎Lenguajes que domino
+ ## 💪😎Some languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
 </div>
 <br><br>
 
- ## 📊 Mis estadisticas en programación
+ ## 📊 My stats in programming
  
  <br/>
     <a href="https://github.com/TomEd01/"><img alt="TomiCat Github" src="https://github-readme-stats.vercel.app/api?username=TomEd01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
