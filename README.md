@@ -14,6 +14,24 @@
 - 💬 If you want how I am on the networks you can go to my sensual facebook [TomiCat](https://www.facebook.com/Gatitok/)
 <br>
 
+<div align="center">
+    <a href="https://www.facebook.com/Gatitok" target="_blank">
+        <img src=https://img.shields.io/badge/facebook-1199FF.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/tomicat.pers" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-CF3476.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/VTomicat" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1818FE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+    </a>
+    <a href="https://www.youtube.com/channel/UCY_dvGfyBuLCvU_GHAYyOWQ" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/edwin-tepox-lopez/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+    </a>
+</div>
+
  ## 💪😎Some languages
 
 <div style="display: inline_block"><br>
