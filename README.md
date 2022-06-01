@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">! I'm Tomas known as TomiCat 🐈💻</h1>
+<h1 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">! I'm Tomas known as TomiCat 🐈💻</h1>
 <h3 align="center">A simple Mexican student who wants to be a Full Stack developer.</h3>
 <p align="center">
     <a href="https://github.com/TomEd01/">
