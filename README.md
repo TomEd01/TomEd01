@@ -31,26 +31,14 @@
         <img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
     </a>
 </div>
-
- ## 💪😎Some languages
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tom-Node" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Tom-Sass" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Tom-MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Tom-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-</div>
 <br><br>
 
  ## 📊 My stats in programming
  
  <br/>
     <a href="https://github.com/TomEd01/"><img alt="TomiCat Github" src="https://github-readme-stats.vercel.app/api?username=TomEd01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/TomEd01/"><img alt="Mis principales idiomas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomEd01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/><br/>
-    <a href="https://github.com/TomEd01/"><img alt="Actividades de TomiCat" src="https://activity-graph.herokuapp.com/graph?username=TomEd01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/><br/>
+    
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=TomEd01&color=2685BF)
 <a href="https://www.youtube.com/channel/UCY_dvGfyBuLCvU_GHAYyOWQ">
